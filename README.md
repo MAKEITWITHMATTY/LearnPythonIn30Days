@@ -10,3 +10,7 @@ Day 3 - User Input + Basic Math. Post on my blog site https://makeitwithmatty.bl
 Day 4 – Operators & Expressions. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-4-operators.html
 
 Day 5 – Conditionals (if/elif/else). Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-5.html
+
+Day 6 – Chaining Conditions + Nesting. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-6-chaining.html
+
+Day 7 – Review Day. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-7-review-day.html
