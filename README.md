@@ -14,3 +14,7 @@ Day 5 – Conditionals (if/elif/else). Post on my blog site https://makeitwithma
 Day 6 – Chaining Conditions + Nesting. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-6-chaining.html
 
 Day 7 – Review Day. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-7-review-day.html
+
+Day 8 – For Loops. Post on my blog site  https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-8-for-loops.html
+
+Day 9 – While Loops. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-9-while.html
