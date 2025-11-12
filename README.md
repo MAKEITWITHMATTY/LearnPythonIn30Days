@@ -24,3 +24,5 @@ Day 9 – While Loops. Post on my blog site https://makeitwithmatty.blogspot.com
 Day 10 – Lists. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-10-lists.html
 
 Day 11 – Tuples & Sets. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-11-tuples.html
+
+Day 12 – Dictionaries. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-12.html
