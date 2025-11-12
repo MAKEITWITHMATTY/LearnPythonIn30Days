@@ -20,3 +20,5 @@ Day 7 – Review Day. Post on my blog site https://makeitwithmatty.blogspot.com/
 Day 8 – For Loops. Post on my blog site  https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-8-for-loops.html
 
 Day 9 – While Loops. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-9-while.html
+
+Day 10 – Lists. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-10-lists.html
