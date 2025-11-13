@@ -26,3 +26,5 @@ Day 10 – Lists. Post on my blog site https://makeitwithmatty.blogspot.com/2025
 Day 11 – Tuples & Sets. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-11-tuples.html
 
 Day 12 – Dictionaries. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-12.html
+
+Day 13 – Nested Structures & Looping. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-13-nested.html
