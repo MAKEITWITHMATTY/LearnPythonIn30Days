@@ -30,3 +30,5 @@ Day 12 – Dictionaries. Post on my blog site https://makeitwithmatty.blogspot.c
 Day 13 – Nested Structures & Looping. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-13-nested.html
 
 Day 14 – Week 2 Review, Make a tiny dungeon game. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-14-week-2.html
+
+Day 15 – Functions. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-15.html
