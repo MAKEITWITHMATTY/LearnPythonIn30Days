@@ -1,0 +1,6 @@
+def test():
+    x = 10
+    print(x)
+
+test()
+print(x)   # ERROR — x doesn't exist here
