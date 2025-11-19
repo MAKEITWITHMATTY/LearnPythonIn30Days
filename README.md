@@ -38,3 +38,5 @@ Day 16 – Arguments & Defaults. Post on my blog site https://makeitwithmatty.bl
 Day 17 – Error Handling (try/except). Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-17-error.html
 
 Day 18 – Working with Files. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-18-working.html
+
+Day 19 – Using Modules. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-19-using.html
