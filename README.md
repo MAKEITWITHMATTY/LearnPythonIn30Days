@@ -42,3 +42,5 @@ Day 18 – Working with Files. Post on my blog site https://makeitwithmatty.blog
 Day 19 – Using Modules. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-19-using.html
 
 Day 20 – Creating Your Own Module. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-20-creating.html
+
+Day 21 – Build a Daily Journal CLI App. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-21-week-3.html
