@@ -48,3 +48,5 @@ Day 21 – Build a Daily Journal CLI App. Post on my blog site https://makeitwit
 Day 22 – Lists & Dictionary Comprehensions. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-22-lists.html
 
 Day 23 – Working with JSON. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-23-working.html
+
+Day 24 – Intro to Classes & Objects. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-24-intro-to.html
