@@ -46,3 +46,5 @@ Day 20 – Creating Your Own Module. Post on my blog site https://makeitwithmatt
 Day 21 – Build a Daily Journal CLI App. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-21-week-3.html
 
 Day 22 – Lists & Dictionary Comprehensions. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-22-lists.html
+
+Day 23 – Working with JSON. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-23-working.html
