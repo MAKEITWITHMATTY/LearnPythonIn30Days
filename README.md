@@ -52,3 +52,5 @@ Day 23 – Working with JSON. Post on my blog site https://makeitwithmatty.blogs
 Day 24 – Intro to Classes & Objects. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-24-intro-to.html
 
 Day 25 – Program Structure & Planning. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-25-program.html
+
+Day 26 – Testing & Debugging. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-26-testing.html
