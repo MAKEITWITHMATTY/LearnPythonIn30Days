@@ -54,3 +54,5 @@ Day 24 – Intro to Classes & Objects. Post on my blog site https://makeitwithma
 Day 25 – Program Structure & Planning. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-25-program.html
 
 Day 26 – Testing & Debugging. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-26-testing.html
+
+Day 27 – Mini Project: Rock Paper Scissors. Post on my blog site https://makeitwithmatty.blogspot.com/2025/11/learn-python-in-30-days-day-27-mini.html
